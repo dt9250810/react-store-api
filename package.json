@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "json-server": "^0.16.1"
+    "json-server": "^0.16.1",
+    "jsonwebtoken": "^8.5.1"
   },
   "scripts": {
     "server": "nodemon server.js",
